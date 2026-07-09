@@ -1,5 +1,4 @@
 class Playlist:
-
     def __init__(self, name: str = "My Playlist", description: str = ""):
         self.name: str = name
         self.description: str = description
